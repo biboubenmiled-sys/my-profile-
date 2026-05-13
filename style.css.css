@@ -1,0 +1,38 @@
+body {
+  background-color: #f2f2f2;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+.card {
+  background-color: white;
+  width: 350px;
+  margin: 50px auto;
+  padding: 30px;
+  border-radius: 15px;
+}
+
+img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+}
+
+h1 {
+  color: #333;
+}
+
+.job {
+  color: gray;
+  font-size: 18px;
+}
+
+a {
+  display: inline-block;
+  margin-top: 15px;
+  padding: 10px 20px;
+  background-color: #0077ff;
+  color: white;
+  text-decoration: none;
+  border-radius: 8px;
+}
